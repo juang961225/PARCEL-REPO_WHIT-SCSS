@@ -1,0 +1,1 @@
+{"version":3,"sources":["sass\\styles.scss"],"names":[],"mappings":"AAAA;EACI;;;AAGJ;EACI;;;AAGJ;EACI;EACA;EACA","file":"src.e31bb0bc.css","sourceRoot":"..\\src","sourcesContent":["div img {\r\n    width: 100px;\r\n}\r\n\r\nbody {\r\n    background-color: aquamarine;\r\n}\r\n\r\ndiv p {\r\n    color: black;\r\n    border: black solid 1px;\r\n    font-size: 20px;\r\n}"]}
